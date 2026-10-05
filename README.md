@@ -102,11 +102,9 @@ The dashboard contains interactive visualizations covering:
 
 ### Dashboard Preview
 
-Add your dashboard screenshot here:
+### Dashboard Preview
 
-```markdown
-![Ola Analytics Dashboard](./Ola%20Dashboard%20Preview.png)
-```
+![Ola Analytics Dashboard](./Ola_Dashboard_Preview.png)
 
 ## Key Insights
 
