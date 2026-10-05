@@ -2,6 +2,10 @@
 
 > An interactive business intelligence dashboard for analyzing Ola ride-booking data, customer behavior, revenue, cancellations, and operational performance.
 
+### Dashboard Preview
+
+![Ola Analytics Dashboard](./Ola_Dashboard_Preview.png)
+
 ## Overview
 
 The **Ola Analytics Dashboard** is a data analytics and visualization project designed to transform raw ride-booking data into meaningful business insights.
@@ -100,11 +104,6 @@ The dashboard contains interactive visualizations covering:
 - Ratings analysis
 - Operational performance
 
-### Dashboard Preview
-
-### Dashboard Preview
-
-![Ola Analytics Dashboard](./Ola_Dashboard_Preview.png)
 
 ## Key Insights
 
